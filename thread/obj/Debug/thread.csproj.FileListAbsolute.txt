@@ -1,0 +1,5 @@
+F:\VS2012项目库\thread\thread\bin\Debug\thread.exe.config
+F:\VS2012项目库\thread\thread\bin\Debug\thread.exe
+F:\VS2012项目库\thread\thread\bin\Debug\thread.pdb
+F:\VS2012项目库\thread\thread\obj\Debug\thread.exe
+F:\VS2012项目库\thread\thread\obj\Debug\thread.pdb
